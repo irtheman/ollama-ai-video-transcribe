@@ -1,3 +1,5 @@
+#!/usr/bin/env -S python3
+
 import torch
 print(torch.__version__)
 print(torch.version.cuda)
